@@ -1,0 +1,7 @@
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- dialog background -->
+    <solid android:color="@color/statusBarColor"/> <!-- Arka plan rengi -->
+    <corners android:radius="20dp"/> <!-- Köşe yarıçapı (radius) -->
+
+</shape>
